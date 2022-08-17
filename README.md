@@ -18,7 +18,7 @@ To install all dependencies, run `npm i` in your command line.
 
 ## Video
 
-Walkthrough video using Insomnia:
+Walkthrough video using Insomnia: https://drive.google.com/file/d/1vnPodJCNVqgSFwW9AbO0ocHc48qrmqKJ/view
 
 ## Contact
 
